@@ -1,4 +1,7 @@
 ## uipath-github-test
-Test de conexion de Uipath
+Test de conexion de Uipath con GitHub
 
-- Se puede hacer cloning desde UiPAth studio
+- Cloning desde UiPAth studio
+- Pull
+- Push
+- Commit
